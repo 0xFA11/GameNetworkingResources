@@ -6,6 +6,7 @@ Thank you for your suggestions!
 
 ## Add/Update
 
+- **Only awesome stuff** because it's a curation, not a collection.
 - One add/update per pull request.
 - Pull request may contain multiple commits.
 - Entry name in title-case and list in alphabetical order.
