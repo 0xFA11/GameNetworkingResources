@@ -14,6 +14,8 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Articles
 
+- [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki that includes advanced game networking topics.
+
 ## Libraries
 
 ## Projects
