@@ -18,6 +18,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [Gaffer on Games](https://gafferongames.com/) - Glenn Fiedler's reliable-UDP protocol and game network development articles.
 - [Game Server Architecture](https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
+- [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer browser games.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki that includes advanced game networking topics.
 
 ## Libraries
