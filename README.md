@@ -30,6 +30,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 - [ENet](http://enet.bespin.org/) - Reliable UDP networking library written in C.
 - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library written in C# (.NET).
+- [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Reliable UDP networking library written in C# (.NET/Mono).
 - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library written in C++.
 
 ## Projects
