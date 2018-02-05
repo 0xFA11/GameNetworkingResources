@@ -28,4 +28,6 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Libraries
 
+- [ENet](http://enet.bespin.org/) - Reliable UDP networking library written in C.
+
 ## Projects
