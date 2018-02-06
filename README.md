@@ -33,6 +33,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library in C# (.NET).
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library in C# (.NET/Mono).
 - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine in C++.
+- [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features in Java.
 - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers in C++.
 
 ## Projects
