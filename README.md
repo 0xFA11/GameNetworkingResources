@@ -29,6 +29,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 ## Libraries
 
 - [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library in C.
+- [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Advanced multiplayer networking solution for Unity in C#.
 - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library in C# (.NET).
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library in C# (.NET/Mono).
 - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine in C++.
