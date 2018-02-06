@@ -28,7 +28,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Libraries
 
-- [ENet](http://enet.bespin.org/) - Reliable UDP networking library in C.
+- [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library in C.
 - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library in C# (.NET).
 - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library in C# (.NET/Mono).
 - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured reliable UDP networking engine in C++.
