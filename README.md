@@ -40,3 +40,4 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 ## Projects
 
 - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project in Unity.
+- [TANKS! Networking](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213) - UNET-based multiplayer tank shooter project in Unity.
