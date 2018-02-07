@@ -38,3 +38,5 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers in C++.
 
 ## Projects
+
+- [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project in Unity.
