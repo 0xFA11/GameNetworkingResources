@@ -26,6 +26,8 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Tutorials
 
+- [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - UE4 blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
+
 ## Libraries
 
 - [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library in C.
