@@ -28,6 +28,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - UE4 blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
 - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - (Paid) UE4 C++ multiplayer game development tutorial series by Tom Looman.
+- [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - Unity UNET-based multiplayer FPS game development tutorial series by Asbjørn Thirslund.
 - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) (Paid) UE4 C++ online game development tutorial series by Sam Pattuzzi.
 
 ## Libraries
