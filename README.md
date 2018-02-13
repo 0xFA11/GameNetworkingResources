@@ -27,6 +27,8 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Talks
 
+- [GDC / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
+
 ## Tutorials
 
 - [UE4 / Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - Blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
