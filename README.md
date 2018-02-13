@@ -37,14 +37,14 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Libraries
 
-- [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library in C.
-- [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution in C#.
-- [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library in C# (.NET).
-- [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library in C# (.NET/Mono).
-- [PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud) in C++ and C#.
-- [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine in C++.
-- [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features in Java.
-- [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers in C++.
+- [C# / ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
+- [C# / Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET).
+- [C# / LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
+- [C# / PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
+- [C / ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library.
+- [C++ / RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
+- [C++ / yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
+- [Java / SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 
 ## Projects
 
