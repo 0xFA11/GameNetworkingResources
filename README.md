@@ -9,6 +9,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 ## Contents
 
 - [Articles](#articles)
+- [Talks](#talks)
 - [Tutorials](#tutorials)
 - [Libraries](#libraries)
 - [Projects](#projects)
@@ -23,6 +24,8 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer browser games.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki that includes advanced game networking topics.
+
+## Talks
 
 ## Tutorials
 
