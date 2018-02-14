@@ -27,7 +27,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Talks
 
-- [GDC / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
+- [GDC 2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
 
 ## Tutorials
 
