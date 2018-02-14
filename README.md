@@ -28,6 +28,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 ## Talks
 
 - [GDC 2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
+- [Let's Talk Netcode - Overwatch](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Techniques, issues and improvements on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
 
 ## Tutorials
 
