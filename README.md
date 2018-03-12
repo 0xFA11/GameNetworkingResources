@@ -2,7 +2,7 @@
 
 > Curated list of Awesome Game Networking resources which is continuously being updated!
 
-<img src="LOGO.png" align="right" height="150">
+[<img src="LOGO.png" align="right" height="150">](#contents)
 
 Please feel free to contribute after reading [contribution guidelines](CONTRIBUTING.md).
 
