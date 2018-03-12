@@ -4,8 +4,6 @@
 
 Please feel free to contribute after reading [contribution guidelines](CONTRIBUTING.md).
 
-![Awesome Game Networking](LOGO.png)
-
 ## Contents
 
 - [Articles](#articles)
