@@ -2,6 +2,8 @@
 
 > Curated list of Awesome Game Networking resources which is continuously being updated!
 
+Please feel free to contribute after reading [contribution guidelines](CONTRIBUTING.md).
+
 ![Awesome Game Networking](LOGO.png)
 
 ## Contents
