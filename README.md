@@ -34,6 +34,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [GDC 2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 300K Players in One World by Kristjan Jonsson from CCP Games.
 - [GDC 2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - A Programmer's Postmortem by Peter Hall from Crytek.
 - [GDC 2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
+- [GDC 2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) - Talk by Patrick Wyatt from En Masse Ent.
 - [Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Techniques on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
 
 ## Tutorials
