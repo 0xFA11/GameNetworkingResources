@@ -36,6 +36,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [GDC 2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) - Gameplay networking in Halo: Reach by David Aldridge from Bungie.
 - [GDC 2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) - Talk by Patrick Wyatt from En Masse Ent.
 - [GDC 2013 / Network Serialization and Routing in World of Warcraft](http://www.gdcvault.com/play/1017733/Network-Serialization-and-Routing-in) - Talk by Joe Rumsey from Blizzard.
+- [GDC 2015 / Networking Gameplay and AI in Assassin's Creed Unity](http://www.gdcvault.com/play/1022168/Networking-Gameplay-and-AI-in) - Talk by Charles Lefebvre from Ubisoft.
 - [Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Techniques on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
 
 ## Tutorials
