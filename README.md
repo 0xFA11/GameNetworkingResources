@@ -39,6 +39,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [GDC 2015 / Networking Gameplay and AI in Assassin's Creed Unity](http://www.gdcvault.com/play/1022168/Networking-Gameplay-and-AI-in) - Talk by Charles Lefebvre from Ubisoft.
 - [GDC 2015 / Game Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking) - Talk by Glenn Fiedler from Respawn Entertainment.
 - [Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Techniques on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
+- [Unite EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox Interactive.
 
 ## Tutorials
 
