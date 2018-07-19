@@ -44,6 +44,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 
 ## Tutorials
 
+- [UE4 / Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - Introduction to implementing networked movement features.
 - [UE4 / Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - Blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
 - [UE4 / Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - (Paid) C++ multiplayer game development tutorial series by Tom Looman.
 - [UE4 / Online Game Development](https://www.udemy.com/unrealmultiplayer/) (Paid) C++ online game development tutorial series by Sam Pattuzzi.
