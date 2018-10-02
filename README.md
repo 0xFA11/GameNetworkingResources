@@ -4,7 +4,7 @@
 
 [<img src="LOGO.png" align="right" height="150">](#awesome-game-networking-)
 
-Game networking is a subset of network engineering that covers multiplayer online game networking. Entity interpolation, input prediction, lag compensation and client-server model topics are main pillars of gameplay network development. This list contains handfully picked resources ranging between high-level network architectures and low-level data replication optimizations.
+Game networking is a subset of computer networking that specifically covers data replication, state synchronization and RPCs for multiplayer online games. Entity interpolation, input prediction, lag compensation and client-server model topics are main pillars of gameplay network development. This list contains handfully picked resources ranging between high-level network architectures and low-level data replication optimizations.
 
 Please feel free to contribute after reading [contribution guidelines](CONTRIBUTING.md).
 
