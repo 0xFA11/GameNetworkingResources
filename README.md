@@ -1,6 +1,6 @@
 # Awesome Game Networking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of resources about gameplay network programming techniques and architectures.
+> A Curated List of Game Network Programming Resources
 
 [<img src="LOGO.png" align="right" height="150">](#awesome-game-networking-)
 
