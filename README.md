@@ -33,9 +33,9 @@ Game networking is a subset of computer networking that specifically covers data
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - A brief summary about UO tech-stack by Raph Koster and Brian Crowder.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) - Security lessons learned about client-server model from Quake 1 by id Software.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical but still valuable UE3 game networking documentation wiki.
+- [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - Brief look into Unreal's gameplay networking framework by Nuno Afonso.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - Detailed summary of UE4 networking with examples by Cedric Neukirchen.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - Official UE4 gameplay networking framework documentation wiki.
-- [Unreal Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - Brief look into Unreal's gameplay networking framework by Nuno Afonso.
 - [Unreal Tournament 2004 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - On Netcode in Unreal Engine (historical) by Tim Sweeney.
 
 ## Talks
