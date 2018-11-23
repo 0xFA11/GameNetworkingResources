@@ -61,7 +61,7 @@ Game networking is a subset of computer networking that specifically covers data
 - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Dev discussion on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
 - [Unite EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox Interactive.
 - [Unite EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - Multiplayer architecture comparison by Christof Wegmann from Exit Games.
-- [Unite LA 2018 / Deep dive into networking for Unity's FPS Sample game](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Netcode of a fast-paced multiplayer shooter of Unity's FPS sample, snapshot generation and compression, client-side prediction and lag compensation, client and server code structuring.
+- [Unite LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Netcode talk by Peter Andreasen from Unity.
 
 ## Tutorials
 
