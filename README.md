@@ -77,6 +77,7 @@ Game networking is a subset of computer networking that specifically covers data
 ## Libraries
 
 - [C / ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library.
+- [C# / BenchmarkNet](https://github.com/nxrighthere/BenchmarkNet) - Benchmarks reliable UDP networking solutions.
 - [C# / ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
 - [C# / Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET).
 - [C# / LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
