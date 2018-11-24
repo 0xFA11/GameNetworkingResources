@@ -24,6 +24,7 @@ Game networking is a subset of computer networking that specifically covers data
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - Brief summary of NAT and P2P connectivity for games by Keith Johnston.
+- [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - Basic game networking concepts with examples by Chris "Battle(non)sense" on PC Gamer.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - Networking a stack of cubes with Unity and PhysX by Glenn Fiedler at Oculus.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) - A brief yet detailed overview of low-level network protocols stack from Destroy All Software.
 - [Photon Unity Networking](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro) - Official PUN multiplayer online game networking framework documentation wiki.
