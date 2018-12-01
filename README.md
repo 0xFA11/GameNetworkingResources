@@ -103,7 +103,7 @@ Game networking is a subset of computer networking that specifically covers data
 ## Tools
 
 - [Clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility.
-- [Wireshark](https://www.wireshark.org/) - Packet level network traffic/protocol analyzer.
+- [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool.
 
 ## Contributing
 
