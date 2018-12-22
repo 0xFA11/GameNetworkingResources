@@ -33,6 +33,7 @@ Game networking is a subset of computer networking that specifically covers data
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development guide using web technologies.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer games.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki that includes advanced game networking topics.
+- [ Bernier, Yahn W. (2001)](http://web.cs.wpi.edu/~claypool/courses/4513-B03/papers/games/bernier.pdf) - Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization. 
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - A brief summary about UO tech-stack by Raph Koster and Brian Crowder.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) - Security lessons learned about client-server model from Quake 1 by id Software.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) - Improvements upon previous network architectures used in the Quake III Arena.
@@ -73,7 +74,9 @@ Game networking is a subset of computer networking that specifically covers data
 - [UE4 / Online Game Development](https://www.udemy.com/unrealmultiplayer/) - (Paid) C++ online game development tutorial series by Sam Pattuzzi.
 - [UE4 / Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
 - [Unity / Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
-- [Unity / Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.
+- [Unity / Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.[
+- [Unity / Gambetta Local (Hotseat) Demo](https://github.com/RamiAhmed/Gambetta_LocalDemo) - Unity Demo showcasing networking concepts including prediction, interpolation and reconciliation in a local (hotseat) environment.
+- [Unity /Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Unity Demo showcasing networking concepts including prediction, interpolation and reconciliation in a networked (multiplayer) environment.
 
 ## Libraries
 
