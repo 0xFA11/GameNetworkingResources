@@ -74,9 +74,10 @@ Game networking is a subset of computer networking that specifically covers data
 - [UE4 / Online Game Development](https://www.udemy.com/unrealmultiplayer/) - (Paid) C++ online game development tutorial series by Sam Pattuzzi.
 - [UE4 / Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
 - [Unity / Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
-- [Unity / Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.[
+- [Unity / Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.
 - [Unity / Gambetta Local (Hotseat) Demo](https://github.com/RamiAhmed/Gambetta_LocalDemo) - Unity Demo showcasing networking concepts including prediction, interpolation and reconciliation in a local (hotseat) environment.
-- [Unity /Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Unity Demo showcasing networking concepts including prediction, interpolation and reconciliation in a networked (multiplayer) environment.
+- [Unity / Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Unity Demo showcasing networking concepts including prediction, interpolation and reconciliation in a networked (multiplayer) environment.
+- [Unity Fast Paced Multiplayer](https://github.com/JoaoBorks/unity-fastpacedmultiplayer) - A Unity project to build the base functionality for a Authoritative Server, with Lag Compensation, Client side Prediction/Server side Reconciliation and Entity Interpolation.
 
 ## Libraries
 
@@ -85,6 +86,7 @@ Game networking is a subset of computer networking that specifically covers data
 - [C# / Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET).
 - [C# / LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
 - [C# / PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
+- [C# / barebones-masterserver](https://github.com/alvyxaz/barebones-masterserver) - Master Server framework for Unity.
 - [C++ / RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
 - [C++ / yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
 - [Java / SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
