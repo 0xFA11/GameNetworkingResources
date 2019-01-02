@@ -106,10 +106,11 @@ Game networking is a subset of computer networking that specifically covers data
 
 ## Tools
 
-- [Clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility.
-- [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy server.
-- [Postman](https://www.getpostman.com/) - Web API debugging client.
-- [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool.
+- [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
+- [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy server. (Windows, Mac, Linux)
+- [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
+- [Postman](https://www.getpostman.com/) - Web API debugging client. (Windows, Mac, Linux)
+- [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, Mac, Linux)
 
 ## Contributing
 
