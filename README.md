@@ -59,6 +59,7 @@ Game networking is a subset of computer networking that specifically covers data
 - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - 1v1 chat about networking of Guild Wars, Diablo, StarCraft and more by Pat Wyatt.
 - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Dev discussion on Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
 - [UE4 Livestream / Replication Graph](https://www.youtube.com/watch?v=CDnNAAzgltw) - Epic's dev-team demonstrates UE 4.20's new Replication Graph feature.
+- [UE4 Livestream / Server Optimizations](https://www.youtube.com/watch?v=mT8VUVuk-CY) - Ryan Gerleve and Dave Ratti to discuss server optimization techniques in UE4.
 - [Unite EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox Interactive.
 - [Unite EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - Multiplayer architecture comparison by Christof Wegmann from Exit Games.
 - [Unite LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Netcode talk by Peter Andreasen from Unity.
