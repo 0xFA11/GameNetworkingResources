@@ -1,8 +1,8 @@
 # Contribution Guidelines
 
-Please consider these guidelines before making a suggestion.
+Please consider these guidelines before making a contribution.
 
-Thank you for your suggestions!
+Thank you very much for your contributions!
 
 ## Add/Update
 
