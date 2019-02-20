@@ -4,7 +4,7 @@ Game networking is a subset of computer networking that covers data replication,
 
 This curated list contains carefully picked [articles](#articles), [talks](#talks), [tutorials](#tutorials), [libraries](#libraries), [projects](#projects) and [tools](#tools) - which are ranging from high level design approaches to low level implementation details.
 
-After reading [contribution guidelines](CONTRIBUTING.md), you may contribute by [making a pull request](/../../pulls) or [open an issue](/../../issues) to report a problem.
+After reading [contribution guidelines](CONTRIBUTING.md), you may contribute by [making a pull request](/../../pulls) or [opening an issue](/../../issues) to report a problem.
 
 ## Articles
 
