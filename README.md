@@ -1,10 +1,18 @@
 [<img src="BANNER.svg" width="100%">](#readme)
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 Game networking is a subset of computer networking that covers data replication, state synchronization, snapshot interpolation, client prediction, lag compensation, bandwidth optimization and many more techniques involved in multiplayer online gameplay programming.
 
-This curated list contains carefully picked [articles](#articles), [talks](#talks), [tutorials](#tutorials), [libraries](#libraries), [projects](#projects) and [tools](#tools) - which are ranging from high level design approaches to low level implementation details.
+Please feel free to contribute after reading [contribution guidelines](CONTRIBUTING.md), thank you!
 
-After reading [contribution guidelines](CONTRIBUTING.md), you may contribute by [making a pull request](/../../pulls) or [opening an issue](/../../issues) to report a problem.
+## Contents
+- [Articles](#articles)
+- [Talks](#talks)
+- [Tutorials](#tutorials)
+- [Libraries](#libraries)
+- [Projects](#projects)
+- [Tools](#tools)
 
 ## Articles
 
@@ -107,3 +115,9 @@ After reading [contribution guidelines](CONTRIBUTING.md), you may contribute by 
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Postman](https://www.getpostman.com/) - Web API debugging client. (Windows, macOS, Linux)
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, macOS, Linux)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [M. Fatih MAR](https://github.com/mfatihmar) has waived all copyright and related or neighboring rights to this work.
