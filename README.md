@@ -61,6 +61,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Detailed techniques by Benjamin Goyette from Activision.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Simulation, determinism, responsiveness and precision.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) - The physics and networking of Rocket League in details by Jared Cone.
+  - [2018 / 8 Frames in 16ms: Rollback Networking](https://www.youtube.com/watch?v=7jb0FOcImdg) - Rolling back and simulating in Mortal Kombat.
 - Unreal Engine Livestream
   - [Replication Graph](https://www.youtube.com/watch?v=CDnNAAzgltw) - Epic's dev-team demonstrates UE 4.20's new Replication Graph feature.
   - [Server Optimizations](https://www.youtube.com/watch?v=mT8VUVuk-CY) - Ryan Gerleve and Dave Ratti to discuss server optimization techniques in UE4.
