@@ -23,7 +23,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [High Performance Browser Networking](https://hpbn.co/) - A fantastic free online book about modern web protocols by Ilya Grigorik.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
-- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - Brief summary of NAT and P2P connectivity for games by Keith Johnston.
+- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - Brief summary of NAT and P2P connectivity by Keith Johnston.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - Basic game networking concepts with examples by Chris "Battle(non)sense" on PC Gamer.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - Networking a stack of cubes with Unity and PhysX by Glenn Fiedler at Oculus.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) - A brief yet detailed overview of low-level network protocols stack from Destroy All Software.
@@ -35,8 +35,8 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - A brief summary about UO tech-stack by Raph Koster and Brian Crowder.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) - Security lessons learned about client-server model from Quake 1 by id Software.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) - Improvements upon previous network architectures used in the Quake III Arena.
-- [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - Full project source code and detailed blog post about networking challenges by Evan Todd.
-- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - Paper covering Tribes II's networking model by Mark Frohnmayer and Tim Gift.
+- [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - Project code and detailed blog post about networking challenges by Evan Todd.
+- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - Tribes II's networking model paper by Mark Frohnmayer and Tim Gift.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) - Demo project and detailed how-to blog post by Joe Best-Rotheray.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) - Example project and detailed blog post by Justin Rempel.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical but still valuable UE3 game networking documentation wiki.
