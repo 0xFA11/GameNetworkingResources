@@ -99,7 +99,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
   - [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET).
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
-  - [MLAPI](https://mlapi.network) - Low and High level networking library for the Unity Engine.
+  - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
   - [PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
