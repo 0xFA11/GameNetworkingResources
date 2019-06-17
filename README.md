@@ -102,6 +102,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
   - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
   - [PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
+  - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 
