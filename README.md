@@ -97,11 +97,11 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
   - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity.
-  - [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
+  - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET).
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
   - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
-  - [PhotonEngine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
+  - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
   - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
