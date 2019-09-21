@@ -70,6 +70,8 @@ Game networking is a subset of computer networking that commonly covers data rep
 - Unreal Engine Livestream
   - [Replication Graph](https://www.youtube.com/watch?v=CDnNAAzgltw) - Epic's dev-team demonstrates UE 4.20's new Replication Graph feature.
   - [Server Optimizations](https://www.youtube.com/watch?v=mT8VUVuk-CY) - Ryan Gerleve and Dave Ratti to discuss server optimization techniques in UE4.
+- Unreal Fest
+  - [EU 2019 / Replication Graph For Optimizing RTS Games](https://www.youtube.com/watch?v=VusAHXoHF3Y) - Talk by Nick Prühs from Deadalic Entertainment.
 - Unity Unite
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox Interactive.
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - Multiplayer architecture comparison by Christof Wegmann from Exit Games.
