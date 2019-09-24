@@ -20,7 +20,7 @@ Game networking is a subset of computer networking that commonly covers data rep
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Internet connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) - Gabriel Gambetta's client-side prediction, entity interpolation, lag compensation articles.
 - [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) - Glenn Fiedler's reliable-UDP protocol and game network development articles.
-- [Game Server Architecture](https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
+- [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [High Performance Browser Networking](https://hpbn.co/) - A fantastic free online book about modern web protocols by Ilya Grigorik.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - An academic paper.
