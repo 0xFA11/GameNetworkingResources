@@ -112,7 +112,7 @@ Game networking is a subset of computer networking that commonly covers data rep
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 - JavaScript
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
-  - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Backend Node framework geared towards highly scalable applications.
+  - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
 
 ## Projects
 
