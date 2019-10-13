@@ -81,7 +81,6 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
 - Unreal Engine
   - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - Introduction to implementing networked movement features.
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - Blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
-  - [Lag Compensation In Unreal Engine 4](https://blog.bluecurse.com/2017/09/18/lag_compensation_part_1/) - C++ Tutorial for Hitbox Tracking
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - (Paid) C++ multiplayer game development tutorial series by Tom Looman.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - (Paid) C++ online game development tutorial series by Sam Pattuzzi.
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
@@ -113,6 +112,7 @@ Please feel free to contribute after reading [contribution guidelines](CONTRIBUT
   - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) - Project that adds sprint ability to the CharacterMovementComponent.
   - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project.
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) - 3rd-person multiplayer zombie survival game tutorial project.
+  - [GAS Documentation](https://github.com/tranek/GASDocumentation) - A multiplayer 3rd-person shooter that uses the Gameplay Ability System. Is a excellent reference on how to use the GAS on a multiplayer project.
 - Unity
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - Server authoritative movement project using Forge Networking for Unity.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project.
