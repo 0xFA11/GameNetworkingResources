@@ -122,6 +122,7 @@ Game networking is a subset of computer networking that commonly covers data rep
   - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) - Project that adds sprint ability to the CharacterMovementComponent.
   - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project.
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) - 3rd-person multiplayer zombie survival game tutorial project.
+  - [GAS Documentation](https://github.com/tranek/GASDocumentation) - A multiplayer 3rd-person shooter that uses the Gameplay Ability System. Is a excellent reference on how to use the GAS on a multiplayer project.
 - Unity
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - Server authoritative movement project using Forge Networking for Unity.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project.
