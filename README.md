@@ -92,7 +92,7 @@ Game networking is a subset of computer networking that commonly covers data rep
 - Unity
   - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - Making of a simple networked bouncy ball using DarkRift2 from MateriaGame.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
-  - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) - Official UNET-based multiplayer game networking tutorials by Unity.
+  - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html) - Official UNET-based multiplayer game networking tutorials by Unity.
 
 ## Libraries
 
