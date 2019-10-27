@@ -64,6 +64,7 @@ Game networking is a subset of computer networking that commonly covers data rep
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - High level design approaches by Claire Blackshaw from Sony.
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Detailed techniques by Benjamin Goyette from Activision.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Simulation, determinism, responsiveness and precision.
+  - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) - Replicating vehicle movement in P2P simulation
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) - Rollback Networking in Mortal Kombat and Injustice 2 by Michael Stallone.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) - The physics and networking of Rocket League in details by Jared Cone.
   - [2019 / Quantum Deep Dive](https://vimeo.com/335798361/2f90c04a30) - Photon Quantum Deterministic Network Engine for Unity by Eric from Exit Games.
