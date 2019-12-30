@@ -100,7 +100,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [DarkRift Networking](https://www.darkriftnetworking.com/) - Unity focused multi-threaded multiplayer networking solution.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET/Mono/Unity).
-  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono).
+  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono/Unity).
   - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
   - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
