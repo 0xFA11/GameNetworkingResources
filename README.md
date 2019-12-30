@@ -1,19 +1,10 @@
 [<img src="BANNER.svg" width="100%">](#readme)
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+Game networking is a subset of computer networking that commonly covers transport protocols, data replication, entity synchronization, lag compensation, client-side prediction, server reconciliation, interest management, bandwidth optimization, physics rollback/fastforward simulation, anti-cheating and many other areas involved in multiplayer online game development.
 
-Game networking is a subset of computer networking that commonly covers data replication, state synchronization, snapshot interpolation, client-side prediction, lag compensation, anti cheating, load balancing, bandwidth optimization\
-&mdash; and many more techniques involved in multiplayer online game programming.
+_Please feel free to contribute with your awesome resource as well, thank you!_
 
-**Please feel free to contribute your _awesome_ resource after reading [contribution guidelines](CONTRIBUTING.md), thank you!**
-
-## Contents
-- [Articles](#articles)
-- [Talks](#talks)
-- [Tutorials](#tutorials)
-- [Libraries](#libraries)
-- [Projects](#projects)
-- [Tools](#tools)
+**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Tutorials](#tutorials) - [Libraries](#libraries) - [Projects](#projects) - [Tools](#tools)
 
 ## Articles
 
