@@ -73,6 +73,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - Other
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about networking of Guild Wars, Diablo, StarCraft by Pat Wyatt.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Tim Ford and Philip Orwig from Blizzard on Overwatch's netcode.
+  - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) - Maciej Sinilo on Warframe's netcode
 
 ## Tutorials
 
