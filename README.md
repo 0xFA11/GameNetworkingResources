@@ -71,9 +71,9 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Netcode talk by Peter Andreasen from Unity.
   - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) - Dive deep into the networked future of Unity using DOTS by Tim Johansson.
 - Other
-  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about networking of Guild Wars, Diablo, StarCraft by Pat Wyatt.
-  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Tim Ford and Philip Orwig from Blizzard on Overwatch's netcode.
-  - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) - Maciej Sinilo on Warframe's netcode
+  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about Guild Wars, Diablo, StarCraft netcode by Pat Wyatt.
+  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Devlog about Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
+  - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) - Talk about Warframe's netcode by Maciej Sinilo from Digital Extremes.
 
 ## Tutorials
 
