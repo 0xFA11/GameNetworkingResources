@@ -108,8 +108,11 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Networker](https://github.com/MarkioE/Networker) - TCP and UDP networking library (.NET/Unity).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
   - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
+  - [kcp-dotnet](https://github.com/ichenq/kcp-dotnet) - KCP implementation in dotnet
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
+  - [kcp-netty](https://github.com/szhnet/kcp-netty) - KCP implementation on top of Netty
+  - [kcp](https://github.com/hkspirt/kcp-java) - KCP Java implementation
 - JavaScript
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
