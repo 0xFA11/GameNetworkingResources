@@ -94,6 +94,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - C / C++
   - [ENet](http://enet.bespin.org/) - Simple and robust reliable UDP networking library.
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Valve's internal (Steam) network transport layer for games.
+  - [GGPO](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK
   - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
   - [TNL2](https://github.com/nardo/tnl2) - (Inactive) Torque Networking Library 2 which is quite familiar to [TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
   - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
