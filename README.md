@@ -132,8 +132,6 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Gabriel Gambetta's network architecture implementation in Unity using Lidgren.
   - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) - UNET-based simple multiplayer 1st-person shooter tutorial project.
   - [SmartFoxServer2X Multiplayer](https://assetstore.unity.com/packages/tools/network/smartfoxserver2x-multiplayer-sdk-17261) - SFS2X-based multiplayer project examples.
-  - [TANKS! Networking](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213) - UNET-based multiplayer tank shooter project.
-  - [UNet-Controller](https://github.com/Heep042/UNet-Controller) - UNET-based networked 1st-person and 3rd-person player controller with advanced features.
 
 ## Tools
 
