@@ -116,6 +116,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 - JavaScript
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
+  - [Kalm](https://github.com/kalm/kalm.js) - Congestion-control library for Node and the Browser.  
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
 
 ## Projects
