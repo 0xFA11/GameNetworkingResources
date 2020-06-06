@@ -4,7 +4,7 @@ Game networking is a subset of computer networking that commonly covers transpor
 
 _Please feel free to contribute with your awesome resource as well, thank you!_
 
-**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Tutorials](#tutorials) - [Libraries](#libraries) - [Projects](#projects) - [Tools](#tools)
+**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Libraries](#libraries) - [Projects](#projects) - [Tools](#tools)
 
 ## Articles
 
@@ -76,20 +76,6 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Devlog about Overwatch's netcode by Tim Ford and Philip Orwig from Blizzard.
   - [Valorant / Netcode & 128-Servers](https://www.youtube.com/watch?v=_Cu97mr7zcM) - Some basic networking concepts in Valorant from Riot Games.
   - [Warframe / Networking Architecture](https://www.youtube.com/watch?v=VVetqMgcN50) - Talk about Warframe's netcode by Maciej Sinilo from Digital Extremes.
-
-## Tutorials
-
-- Unreal Engine
-  - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - Introduction to implementing networked movement features.
-  - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - Blueprint multiplayer game development tutorial series by Wes Bunn from Epic Games.
-  - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - (Paid) C++ multiplayer game development tutorial series by Tom Looman.
-  - [Custom Struct Serialization For Networking](http://www.aclockworkberry.com/custom-struct-serialization-for-networking-in-unreal-engine/) - C++ tutorial article by Giuseppe Portelli.
-  - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - (Paid) C++ online game development tutorial series by Sam Pattuzzi.
-  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
-- Unity
-  - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - Making of a simple networked bouncy ball using DarkRift2 from MateriaGame.
-  - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
-  - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html) - Official UNET-based multiplayer game networking tutorials by Unity.
 
 ## Libraries
 
