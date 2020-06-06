@@ -4,7 +4,7 @@ Game networking is a subset of computer networking that commonly covers transpor
 
 _Please feel free to contribute with your awesome resource as well, thank you!_
 
-**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Libraries](#libraries) - [Projects](#projects) - [Tools](#tools)
+**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Libraries](#libraries) - [Tools](#tools)
 
 ## Articles
 
@@ -103,23 +103,6 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - JavaScript
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
-
-## Projects
-
-- Unreal Engine
-  - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) - Project that adds sprint ability to the CharacterMovementComponent.
-  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project.
-  - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) - 3rd-person multiplayer zombie survival game tutorial project.
-  - [GASDocumentation](https://github.com/tranek/GASDocumentation) - 3rd-person multiplayer shooter with detailed Gameplay Ability System documentation.
-- Unity
-  - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - Server authoritative movement project using Forge Networking for Unity.
-  - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - Photon PUN-based multiplayer top-down shooter project.
-  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - Forge Networking-based multiplayer FPS game as an example project.
-  - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - Network framework for Entitas ECS targeting turn-based or slow-paced games.
-  - [FPSSample](https://github.com/Unity-Technologies/FPSSample) - An official Multiplayer FPS project sample from Unity using new networking package and ECS.
-  - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) - Gabriel Gambetta's network architecture implementation in Unity using Lidgren.
-  - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) - UNET-based simple multiplayer 1st-person shooter tutorial project.
-  - [SmartFoxServer2X Multiplayer](https://assetstore.unity.com/packages/tools/network/smartfoxserver2x-multiplayer-sdk-17261) - SFS2X-based multiplayer project examples.
 
 ## Tools
 
