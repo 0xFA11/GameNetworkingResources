@@ -98,6 +98,8 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Networker](https://github.com/MarkioE/Networker) - TCP and UDP networking library (.NET/Unity).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
   - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
+- Go
+  - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 - JavaScript
