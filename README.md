@@ -59,6 +59,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Determinism, responsiveness and precision.
   - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) - Replicating vehicle movement in P2P.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) - Rollback Networking in Mortal Kombat and Injustice 2 by Michael Stallone.
+  - [2018 / For Honor: From a Great Launch to the Live Period](https://www.gdcvault.com/play/1024949/-For-Honor-From-a) - By Damien Kieken and Roman Campos Oriola.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) - The physics and networking of Rocket League in details by Jared Cone.
   - [2019 / Quantum Deep Dive](https://vimeo.com/335798361/2f90c04a30) - Photon Quantum Network Engine for Unity by Eric from Exit Games.
 - Unreal Engine Livestream
