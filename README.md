@@ -8,6 +8,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 
 ## Articles
 
+- [Don't use Lockstep in RTS games](https://blog.istrolid.com/blog/dont-use-lockstep-in-rts-games.html) - Comparing Lockstep vs Client-Server Networking Models for RTS games.
 - [Ethernet vs. WiFi](https://web.archive.org/web/https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) - Client-side prediction, entity interpolation, lag compensation by Gabriel Gambetta.
