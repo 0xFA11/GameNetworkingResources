@@ -25,7 +25,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Photon Unity Networking](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro) - Official PUN multiplayer online game networking framework documentation wiki.
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development on the web guide.
-- [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer games.
+- [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki that includes advanced game networking topics.
 - [Sync Host Overview](https://www.gamedevs.org/uploads/introduction-to-sync-host.pdf) - A presentation covering Sync Host architecture by Peter Kao from Insomniac Games.
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - A summary of UO tech-stack by Raph Koster and Brian Crowder.
