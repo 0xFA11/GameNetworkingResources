@@ -99,8 +99,9 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
   - [MLAPI](https://mlapi.network) - Mix and match networking library with lots of built-in features for Unity.
   - [Networker](https://github.com/MarkioE/Networker) - TCP and UDP networking library (.NET/Unity).
-  - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (SaaS, Cloud).
-  - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (SaaS).
+  - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
+  - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
+  - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (Cloud/SaaS).
 - Go
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
 - Java
