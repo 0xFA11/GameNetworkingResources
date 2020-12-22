@@ -44,6 +44,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal's gameplay networking framework by Nuno Afonso.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - A summary of UE4 networking with examples by Cedric Neukirchen.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - Official UE4 gameplay networking framework docs from the wiki.
+- [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - In-depth breakdown of server runtime optimization techniques by Brent Randall.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
 ## Talks
