@@ -14,6 +14,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) - Client-side prediction, entity interpolation, lag compensation by Gabriel Gambetta.
 - [Gaffer on Games](https://gafferongames.com/) - Glenn Fiedler's reliable-UDP protocol and game network development articles.
+- [Game Networking Demystified](https://ruoyusun.com/2019/03/28/game-networking-1.html) - Articles on basic game networking terminology and concepts by Ruoyu Sun.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [High Performance Browser Networking](https://hpbn.co/) - A free online book about modern web protocols by Ilya Grigorik.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
