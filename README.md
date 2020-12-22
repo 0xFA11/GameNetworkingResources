@@ -8,7 +8,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 
 ## Articles
 
-- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php)
+- [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php) - by Mark Terrano, Paul Bettner.
 - [Don't use Lockstep in RTS games](https://blog.istrolid.com/blog/dont-use-lockstep-in-rts-games.html) - Comparing Lockstep vs Client-Server Networking Models for RTS games.
 - [Ethernet vs. WiFi](https://web.archive.org/web/20191231135556/https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
