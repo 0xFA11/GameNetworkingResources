@@ -13,6 +13,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Ethernet vs. WiFi](https://web.archive.org/web/20191231135556/https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) - Client-side prediction, entity interpolation, lag compensation by Gabriel Gambetta.
+- [Fightin' Words, Netcode](http://ki.infil.net/w02-netcode.html) - Articles explaining how fighting games use delay-based and rollback netcode.
 - [Gaffer on Games](https://gafferongames.com/) - Glenn Fiedler's reliable-UDP protocol and game network development articles.
 - [Game Networking Demystified](https://ruoyusun.com/2019/03/28/game-networking-1.html) - Articles on basic game networking terminology and concepts by Ruoyu Sun.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
