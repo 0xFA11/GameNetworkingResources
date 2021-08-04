@@ -128,6 +128,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging and monitoring connections. (Windows)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.getpostman.com/) - Web API debugging client. (Windows, macOS, Linux)
+- [websocat](https://github.com/vi/websocat) - netcat for WebSockets. (Windows, macOS, Linux)
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, macOS, Linux)
 
 ## License
