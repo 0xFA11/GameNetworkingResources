@@ -123,6 +123,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [CapAnalysis](https://www.capanalysis.net/ca/) - Web visual tool to analyze captured network traffic. (Ubuntu, Debian)
 - [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
 - [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
+- [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging and monitoring connections. (Windows)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
