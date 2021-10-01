@@ -41,6 +41,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Tick Based Lag Compensation in Unity](https://twotenpvp.github.io/lag-compensation-in-unity.html) - Case scenario on shooting with better accuracy by Albin Corén.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) - Demo project and detailed how-to blog post by Joe Best-Rotheray.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) - Example project and detailed blog post by Justin Rempel.
+- [Unity MLAPI Resources](https://docs-multiplayer.unity3d.com/docs/develop/learn/introduction) - Unity MLAPI documentation explaining various concepts used while networking.
 - [Unreal Engine 1 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - Historical paper on netcode in UE1 (Unreal, Unreal Tournament), by Tim Sweeney.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical but still valuable UE3 game networking from the old wiki.
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal's gameplay networking framework by Nuno Afonso.
