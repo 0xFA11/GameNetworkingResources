@@ -62,7 +62,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [2015 / Shared World Shooter: Destiny's Networked Mission Architecture](https://www.gdcvault.com/play/1022246/Shared-World-Shooter-Destiny-s) - By Justin Truman.
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - Design approaches by Claire Blackshaw from Sony.
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Talk by Benjamin Goyette from Activision.
-  - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Determinism, responsiveness and precision.
+  - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Precise and responsive simulation with ECS.
   - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) - Replicating vehicle movement in P2P.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) - Rollback Networking in Mortal Kombat and Injustice 2 by Michael Stallone.
   - [2018 / For Honor: From a Great Launch to Live Period](https://www.gdcvault.com/play/1024949/-For-Honor-From-a) - By Damien Kieken and Roman Campos Oriola.
