@@ -64,6 +64,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Talk by Benjamin Goyette from Activision.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Precise and responsive simulation with ECS.
   - [2017 / Replay Technology in Overwatch: Kill Cam, Gameplay, and Highlights](https://www.youtube.com/watch?v=W4oZq4tn57w) - Talk by Philip Orwig.
+  - [2017 / Networking Scripted Weapons and Abilities in Overwatch](https://www.youtube.com/watch?v=ScyZjcjTlA4) - Talk by Dan Reed from Blizzard.
   - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) - Replicating vehicle movement in P2P.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) - Rollback Networking in Mortal Kombat and Injustice 2 by Michael Stallone.
   - [2018 / For Honor: From a Great Launch to Live Period](https://www.gdcvault.com/play/1024949/-For-Honor-From-a) - By Damien Kieken and Roman Campos Oriola.
