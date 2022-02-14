@@ -120,6 +120,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
   - [Kalm](https://github.com/kalm/kalm.js) - Socket manager/optimizer library with custom congestion control for Node.js and browsers.
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
+  - [Rivalis](https://rivalis.io) - A node.js server framework for real-time applications and games.
 
 ## Tools
 
