@@ -17,7 +17,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [Fightin' Words, Netcode](http://ki.infil.net/w02-netcode.html) - Articles explaining how fighting games use delay-based and rollback netcode.
 - [Gaffer on Games](https://gafferongames.com/) - Glenn Fiedler's reliable-UDP protocol and game network development articles.
 - [Game Networking Demystified](https://ruoyusun.com/2019/03/28/game-networking-1.html) - Basic game networking terminology and concepts by Ruoyu Sun.
-- [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
+- [Game Server Architecture](https://web.archive.org/web/20210419133753/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [High Performance Browser Networking](https://hpbn.co/) - A free online book about modern web protocols by Ilya Grigorik.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
