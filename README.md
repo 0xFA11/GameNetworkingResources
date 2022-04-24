@@ -102,6 +102,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity.
   - [DarkRift Networking](https://www.darkriftnetworking.com/) - Unity focused multi-threaded multiplayer networking solution.
+  - [FishNet](https://github.com/FirstGearGames/FishNet) - Unity networking solution aimed towards reliability, ease of use, efficiency, and flexibility.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET/Mono/Unity).
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono/Unity).
