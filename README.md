@@ -26,6 +26,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
 - [Lag Compensation - Fair Play for all Pings](https://vercidium.com/blog/lag-compensation/) - An article explaining lag compensation by Mitchell Robinson.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - NAT and P2P connectivity by Keith Johnston.
+- [Netcode at Super Bit Machine: Multiplayer First](https://medium.com/@geretti/netcode-at-super-bit-machine-multiplayer-first-7940aa0a9fa4) - Article series on ARMAJET's netcode stack by Nicola Geretti.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - Game networking concepts with examples by Chris "Battle(non)sense" on PC Gamer.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - Networking a stack of cubes with Unity and PhysX by Glenn Fiedler.
 - [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/) - Deterministic state synchronization netcode by Frédéric Kaczynski.
