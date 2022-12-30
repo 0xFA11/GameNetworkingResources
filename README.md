@@ -76,6 +76,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [2018 / For Honor: From a Great Launch to Live Period](https://www.gdcvault.com/play/1024949/-For-Honor-From-a) - By Damien Kieken and Roman Campos Oriola.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) - The physics and networking of Rocket League in details by Jared Cone.
   - [2019 / Quantum Deep Dive](https://vimeo.com/335798361/2f90c04a30) - Photon Quantum Network Engine for Unity by Eric from Exit Games.
+  - [2019 / Back to the Future! Working with Deterministic Simulation in 'For Honor'](https://www.gdcvault.com/play/1026322/Back-to-the-Future-Working) - Lessons learned from For Honor's Deterministic Replication model.
 - Unreal Engine Livestream
   - [Replication Graph](https://www.youtube.com/watch?v=CDnNAAzgltw) - Epic's dev-team demonstrates UE 4.20's new Replication Graph feature.
   - [Server Optimizations](https://www.youtube.com/watch?v=mT8VUVuk-CY) - Ryan Gerleve and Dave Ratti to discuss server optimization techniques in UE4.
