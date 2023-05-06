@@ -113,6 +113,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Mirror](https://github.com/vis2k/Mirror) - A community replacement for Unity's abandoned UNET Networking System.
   - [Netcode for Entities](https://docs.unity3d.com/Packages/com.unity.netcode@latest) - Unity's official netcode SDK for Entities workflows.
   - [Netcode for GameObjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) - Unity's official netcode SDK for GameObject workflows.
+  - [Netick](https://netick.net/) - A server-authoritative networking solution for Unity.
   - [NetStack](https://github.com/nxrighthere/NetStack) - Lightweight toolset for creating concurrent networking systems for multiplayer games.
   - [Networker](https://github.com/MarkioE/Networker) - TCP and UDP networking library (.NET/Unity).
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
