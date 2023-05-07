@@ -1,4 +1,4 @@
-[<img src="BANNER.svg" width="100%">](#readme)
+[<img src="BANNER.png" width="100%">](#readme)
 
 Game networking is a subset of computer networking that commonly covers transport protocols, data replication, entity synchronization, lag compensation, client-side prediction, server reconciliation, interest management, bandwidth optimization, physics rollback/fastforward simulation, anti-cheating and many other areas involved in multiplayer online game development.
 
