@@ -94,7 +94,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 
 ## Youtube Channels
 
-- [https://www.youtube.com/watch?v=-EvO2DOuGos] - Between 2 Servers. Glenn Fiedler interviews gamedevs about multiplayer and netcode.
+- [Between 2 Servers](https://www.youtube.com/watch?v=-EvO2DOuGos) - Glenn Fiedler interviews gamedevs about multiplayer and netcode.
 
 ## Libraries
 
