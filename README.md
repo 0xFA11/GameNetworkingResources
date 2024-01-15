@@ -92,6 +92,10 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Valorant / Netcode & 128-Servers](https://www.youtube.com/watch?v=_Cu97mr7zcM) - Some basic networking concepts in Valorant from Riot Games.
   - [Warframe / Networking Architecture](https://www.youtube.com/watch?v=VVetqMgcN50) - Warframe netcode by Maciej Sinilo from Digital Extremes.
 
+## Youtube Channels
+
+- [https://www.youtube.com/watch?v=-EvO2DOuGos] - Between 2 Servers. Glenn Fiedler interviews gamedevs about multiplayer and netcode.
+
 ## Libraries
 
 - C / C++
@@ -99,9 +103,13 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Valve's internal (Steam) network transport layer for games.
   - [GGPO](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK.
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
+  - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
   - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
+  - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP written (C).
+  - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
+  - [Snapnet](https://www.snapnet.dev) - AAA netcode for real-time multiplayer games.
   - [TNL2](https://github.com/nardo/tnl2) - (Inactive) Torque Networking Library 2 which is quite similar to [TRIBES Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
-  - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
+  - [yojimbo](https://github.com/mas-bandwidth/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers (C++).
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity.
   - [DarkRift 2](https://github.com/DarkRiftNetworking/DarkRift) - Unity focused high-performance multi-threaded multiplayer networking solution.
