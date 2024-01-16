@@ -4,7 +4,7 @@ Game networking is a subset of computer networking that commonly covers transpor
 
 _Please feel free to contribute with your awesome resource as well, thank you!_
 
-**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Libraries](#libraries) - [Tools](#tools)
+**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Youtube Channels](#youtube) - [Libraries](#libraries) - [Tools](#tools)
 
 ## Articles
 
@@ -104,7 +104,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [GGPO](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK.
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
   - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
-  - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
+  - [RakNet](https://github.com/facebookarchive/RakNet) - (Inactive) Full-featured and mature reliable UDP networking engine.
   - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP written (C).
   - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
   - [Snapnet](https://www.snapnet.dev) - AAA netcode for real-time multiplayer games.
