@@ -102,7 +102,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
   - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
   - [RakNet](https://github.com/facebookarchive/RakNet) - (Inactive) Full-featured and mature reliable UDP networking engine.
-  - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP written (C).
+  - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP (C).
   - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
   - [Snapnet](https://www.snapnet.dev) - AAA netcode for real-time multiplayer games.
   - [TNL2](https://github.com/nardo/tnl2) - (Inactive) Torque Networking Library 2 which is quite similar to [TRIBES Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
