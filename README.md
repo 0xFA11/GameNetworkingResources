@@ -87,11 +87,12 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Talk by Peter Andreasen from Unity.
   - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) - Networked future of Unity using DOTS by Tim Johansson.
 - Other
+  - [Between Two Servers](https://www.youtube.com/playlist?list=PLzVi6Kh_HMIWKS1aXOV4XobuymoF0P-_S) - Glenn Fiedler interviews gamedevs about multiplayer and netcode.
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about Guild Wars, Diablo, StarCraft netcode by Pat Wyatt.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Overwatch netcode by Tim Ford and Philip Orwig from Blizzard.
   - [Valorant / Netcode & 128-Servers](https://www.youtube.com/watch?v=_Cu97mr7zcM) - Some basic networking concepts in Valorant from Riot Games.
   - [Warframe / Networking Architecture](https://www.youtube.com/watch?v=VVetqMgcN50) - Warframe netcode by Maciej Sinilo from Digital Extremes.
-
+  
 ## Libraries
 
 - C / C++
@@ -99,9 +100,13 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Valve's internal (Steam) network transport layer for games.
   - [GGPO](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK.
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
-  - [RakNet](https://github.com/facebookarchive/RakNet) - Full-featured and mature reliable UDP networking engine.
+  - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
+  - [RakNet](https://github.com/facebookarchive/RakNet) - (Inactive) Full-featured and mature reliable UDP networking engine.
+  - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP (C).
+  - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
+  - [Snapnet](https://www.snapnet.dev) - AAA netcode for real-time multiplayer games.
   - [TNL2](https://github.com/nardo/tnl2) - (Inactive) Torque Networking Library 2 which is quite similar to [TRIBES Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
-  - [yojimbo](https://github.com/networkprotocol/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers.
+  - [yojimbo](https://github.com/mas-bandwidth/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers (C++).
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity.
   - [DarkRift 2](https://github.com/DarkRiftNetworking/DarkRift) - Unity focused high-performance multi-threaded multiplayer networking solution.
@@ -136,6 +141,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
 - [CapAnalysis](https://www.capanalysis.net/ca/) - Web visual tool to analyze captured network traffic. (Ubuntu, Debian)
 - [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
 - [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
+- [matchmaker](https://github.com/mas-bandwidth/matchmaker) - Matchmaking simulator with real worldwide player data (Go).
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging and monitoring connections. (Windows)
