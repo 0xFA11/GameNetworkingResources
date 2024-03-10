@@ -1,6 +1,6 @@
 [![Game Networking Resources](BANNER.png)](#readme)
 
-Game networking is a subset of computer networking that commonly covers transport protocols, data replication, entity synchronization, lag compensation, client-side prediction, server reconciliation, interest management, bandwidth optimization, physics rollback/fastforward simulation, anti-cheating and many other areas involved in multiplayer online game development.
+**Game Networking** (aka _multiplayer networking_ or _netcode_) is the synchronization of game state and events between multiple players connected over the network. It focuses on the inherent challenges of multiplayer online games such as latency, jitter and packet loss, mitigating through sophisticated algorithms and techniques, including prediction, compensation, reconciliation, interpolation and other mechanisms. It is also often deeply involved and integrated with other game systems such as physics, animation and gameplay.
 
 ## Articles
 
