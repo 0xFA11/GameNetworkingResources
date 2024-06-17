@@ -1,10 +1,6 @@
-[<img src="BANNER.png" width="100%">](#readme)
+[![Game Networking Resources](BANNER.png)](#readme)
 
-Game networking is a subset of computer networking that commonly covers transport protocols, data replication, entity synchronization, lag compensation, client-side prediction, server reconciliation, interest management, bandwidth optimization, physics rollback/fastforward simulation, anti-cheating and many other areas involved in multiplayer online game development.
-
-_Please feel free to contribute with your awesome resource as well, thank you!_
-
-**Quick Jump:** [Articles](#articles) - [Talks](#talks) - [Libraries](#libraries) - [Tools](#tools)
+**Game Networking** (aka _multiplayer networking_ or _netcode_) is the synchronization of game state and events between multiple players connected over the network. It focuses on the inherent challenges of multiplayer online games such as latency, jitter and packet loss, mitigating through sophisticated algorithms and techniques, including prediction, compensation, reconciliation, interpolation and other mechanisms. It is also often deeply involved and integrated with other game systems such as physics, animation and gameplay.
 
 ## Articles
 
@@ -92,7 +88,7 @@ _Please feel free to contribute with your awesome resource as well, thank you!_
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Overwatch netcode by Tim Ford and Philip Orwig from Blizzard.
   - [Valorant / Netcode & 128-Servers](https://www.youtube.com/watch?v=_Cu97mr7zcM) - Some basic networking concepts in Valorant from Riot Games.
   - [Warframe / Networking Architecture](https://www.youtube.com/watch?v=VVetqMgcN50) - Warframe netcode by Maciej Sinilo from Digital Extremes.
-  
+
 ## Libraries
 
 - C / C++
