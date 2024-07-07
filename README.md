@@ -49,6 +49,7 @@
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - A summary of Unreal game networking by Cedric Neukirchen.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - Official UE4 game networking framework docs from the wiki.
 - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
+- [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - Apex Legends networking architecture learnings by Samy "ricklesauceur" Duc
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
 ## Talks
