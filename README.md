@@ -46,8 +46,7 @@
 - [Unreal Engine 1 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - Historical paper on netcode in UE1 (and Unreal Tournament) by Tim Sweeney.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical UE3 game networking from the old wiki.
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal game networking framework by Nuno Afonso.
-- [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - A summary of Unreal game networking by Cedric Neukirchen.
-- [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - Official UE4 game networking framework docs from the wiki.
+- [Unreal Engine Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) - Introduction to Unreal multiplayer by Cedric Neukirchen.
 - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
