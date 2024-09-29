@@ -20,6 +20,7 @@
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
+- [Kieran Newland's Blog](https://www.kierannewland.co.uk/blog/) - Various articles on Unreal Engine 5 multiplayer networking by Kieran Newland.
 - [Lag Compensation - Fair Play for all Pings](https://vercidium.com/blog/lag-compensation/) - An article explaining lag compensation by Mitchell Robinson.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - NAT and P2P connectivity by Keith Johnston.
 - [Netcode at Super Bit Machine: Multiplayer First](https://medium.com/@geretti/netcode-at-super-bit-machine-multiplayer-first-7940aa0a9fa4) - Article series on ARMAJET's netcode stack by Nicola Geretti.
