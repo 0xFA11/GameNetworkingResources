@@ -68,7 +68,7 @@
   - [2015 / Shared World Shooter: Destiny's Networked Mission Architecture](https://www.gdcvault.com/play/1022246/Shared-World-Shooter-Destiny-s) - By Justin Truman.
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - Design approaches by Claire Blackshaw from Sony.
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Talk by Benjamin Goyette from Activision.
-  - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.youtube.com/watch?v=zrIY0eIyqmI) - Timothy Ford on precise simulation with ECS.
+  - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - Timothy Ford on precise simulation with ECS.
   - [2017 / Replay Technology in Overwatch: Kill Cam, Gameplay, and Highlights](https://www.youtube.com/watch?v=W4oZq4tn57w) - Talk by Philip Orwig.
   - [2017 / Networking Scripted Weapons and Abilities in Overwatch](https://www.youtube.com/watch?v=ScyZjcjTlA4) - Talk by Dan Reed from Blizzard.
   - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) - Replicating vehicle movement in P2P.
