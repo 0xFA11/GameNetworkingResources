@@ -48,7 +48,6 @@
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) - Example project and detailed blog post by Justin Rempel.
 - [Unreal Engine 1 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - Historical paper on netcode in UE1 (and Unreal Tournament) by Tim Sweeney.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical UE3 game networking from the old wiki.
-- [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal game networking framework by Nuno Afonso.
 - [Unreal Engine Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) - Introduction to Unreal multiplayer by Cedric Neukirchen.
 - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
 - [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - by Samy Duc.
@@ -127,7 +126,6 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
-  - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (Cloud/SaaS).
 - Go
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
@@ -147,9 +145,9 @@
 - [matchmaker](https://github.com/mas-bandwidth/matchmaker) - Matchmaking simulator with real worldwide player data (Go).
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
-- [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging and monitoring connections. (Windows)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.postman.com/) - Web API debugging and development client. (Windows, macOS, Linux)
+- [Softperfect](https://www.softperfect.com/) - Commercial and free software for home users and small to medium businesses, primarily focusing on network and system utilities (Windows, macOS, Linux)
 - [websocat](https://github.com/vi/websocat) - CLI client for WebSockets like netcat or curl. (Windows, macOS, Linux)
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, macOS, Linux)
 
