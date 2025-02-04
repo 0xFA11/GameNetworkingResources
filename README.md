@@ -91,6 +91,7 @@
 - Other
   - [Between Two Servers](https://www.youtube.com/playlist?list=PLzVi6Kh_HMIWKS1aXOV4XobuymoF0P-_S) - Glenn Fiedler interviews gamedevs about multiplayer and netcode.
   - [Engineering Fast Paced Multiplayer Games with Gabriel Gambetta](https://www.youtube.com/watch?v=HHdUUP3Z3HA) - 1 hour interview podcast.
+  - [Rollback Netcode in Godot](https://www.youtube.com/playlist?list=PLCBLMvLIundBXwTa6gwlOUNc29_9btoir) - A tutorial series about implementing rollback netcode in Godot.
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about Guild Wars, Diablo, StarCraft netcode by Pat Wyatt.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Overwatch netcode by Tim Ford and Philip Orwig from Blizzard.
   - [Unity + Mirror Networking Tutorials](https://www.youtube.com/playlist?list=PLXEG2omgKgCapAmGe20XBgd87rmxFdKhK) - Conceptual and hands-on implementation by Neil Shah.
