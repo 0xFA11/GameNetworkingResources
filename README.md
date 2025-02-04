@@ -54,7 +54,7 @@
 - [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - by Samy Duc.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
-## Talks
+## Videos
 
 - Game Developers Conference
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - Talk on backend network services by Yahn Bernier.
