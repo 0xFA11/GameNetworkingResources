@@ -127,7 +127,6 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
-  - [SocketWeaver](https://socketweaver.com) - Multiplayer cloud services designed for the Unity engine (Cloud/SaaS).
 - Go
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
@@ -147,7 +146,6 @@
 - [matchmaker](https://github.com/mas-bandwidth/matchmaker) - Matchmaking simulator with real worldwide player data (Go).
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
-- [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/) - Tool for analysing, debugging and monitoring connections. (Windows)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.postman.com/) - Web API debugging and development client. (Windows, macOS, Linux)
 - [websocat](https://github.com/vi/websocat) - CLI client for WebSockets like netcat or curl. (Windows, macOS, Linux)
