@@ -1,6 +1,6 @@
-[![Game Networking Resources](BANNER.png)](#readme)
+![Multiplayer Networking Resources](BANNER.png)
 
-**Game Networking** (aka _multiplayer networking_ or _netcode_) is the synchronization of game state and events between multiple players connected over the network. It focuses on the inherent challenges of multiplayer online games such as latency, jitter and packet loss, mitigating through sophisticated algorithms and techniques, including prediction, compensation, reconciliation, interpolation and other mechanisms. It is also often deeply involved and integrated with other game systems such as physics, animation and gameplay.
+**Multiplayer Networking** (aka _game networking_ or _netcode_), mainly focuses on the inherent synchronization challenges of multiplayer online games such as latency, jitter and packet loss — trying to mitigate with sophisticated algorithms and techniques, including prediction, compensation, reconciliation, interpolation and other mechanisms. Multiplayer networking is often deeply involved in and integrated with other game systems like physics, animation and gameplay.
 
 ## Articles
 
