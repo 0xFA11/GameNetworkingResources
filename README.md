@@ -1,4 +1,4 @@
-![Multiplayer Networking Resources](BANNER.png)
+[![Multiplayer Networking Resources](BANNER.png)](https://MultiplayerNetworking.com)
 
 **Multiplayer Networking** (aka _game networking_ or _netcode_), mainly focuses on the inherent synchronization challenges of multiplayer online games such as latency, jitter and packet loss — trying to mitigate with sophisticated algorithms and techniques, including prediction, compensation, reconciliation, interpolation and other mechanisms. Multiplayer networking is often deeply involved in and integrated with other game systems like physics, animation and gameplay.
 
